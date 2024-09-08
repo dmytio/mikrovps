@@ -6,7 +6,7 @@ MikroVPS is a trusted provider of IT solutions, specializing in domain registrat
 ![MikroVPS](https://github.com/user-attachments/assets/8ed91d75-f5af-4072-abc0-3e5b320de627)
 
 ## MikroVPS Official Website Address
-- MikroVPS official website: [https://www.mikrovps.net](https://my.mikrovps.net/aff.php?aff=474
+- MikroVPS official website: [https://www.mikrovps.net](https://my.mikrovps.net/aff.php?aff=474)
 
 ## MikroVPS Promotional Code
 MikroVPS offers promotions and special deals for new and existing customers. Check out their latest promotional codes and discounts via the link below:
